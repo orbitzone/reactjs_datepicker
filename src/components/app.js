@@ -56,8 +56,6 @@ const DatePicker = React.createClass({
   handleClick() {
     if (this.state.value == null) {
       alert("You need to select a range first");
-    } else{
-      this.addNewDate;
     }
   },
 
