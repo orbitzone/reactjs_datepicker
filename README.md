@@ -11,5 +11,5 @@ Command to start the server and the application. (The apllication will be starte
 
 Dev. Versions:
 
-NodeJS v5.7.1
-NPM v3.8.0
+> NodeJS v5.7.1
+> NPM v3.8.0
