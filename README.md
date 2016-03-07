@@ -1,7 +1,7 @@
 # reactjs_datepicker
 React.Js and NodeJs Test
 
-Command to setup the project installing the node_modules folder:
+Command to setup the nodejs modules and dependencies:
 
 > npm install
 
